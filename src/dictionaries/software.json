@@ -1,0 +1,19 @@
+{
+    "Apache Arrow": "Q28915121",
+    "ArviZ": "Q107384682",
+    "Bioconductor": "Q2888953",
+    "Bioconductor Build System": "Q112236535",
+    "Dash": "Q106081011",
+    "ITK-SNAP": "Q5974832",
+    "Matplotlib": "Q2985668",
+    "NumPy": "Q197520",
+    "OpenSim": "Q2038919",
+    "PyMC": "Q21028952",
+    "SciPy": "Q197492",
+    "Stan": "Q17085079",
+    "edgeR": "Q112236367",
+    "igraph": "Q25052508",
+    "limma": "Q112236343",
+    "pandas": "Q15967387",
+    "scikit-image": "Q22442795"
+}
